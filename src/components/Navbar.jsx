@@ -31,7 +31,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
               href="#about"
               className="text-gray-300 hover:text-white transition-colors"
             >
-              Uzair
+              About
             </a>
            
             <a
